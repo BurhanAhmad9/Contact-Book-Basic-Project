@@ -1,7 +1,7 @@
-$ Contact-Book-Basic-Project
+$ Contact-Book-Basic-Project:
 Create a basic and simple contact book application that allow users to add, remove, and search for the contacts.
 
-(Contacts Organization)
+(Contacts Organization) 
 
 (Access and Management is so easy and simple)
 
