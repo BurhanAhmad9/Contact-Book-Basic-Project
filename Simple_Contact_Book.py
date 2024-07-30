@@ -29,6 +29,6 @@ def contact_book():
         elif choice == '4':
             break
         else:
-            print("Invalid option")
+            print("Invalid option") 
 
 contact_book()
